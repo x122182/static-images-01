@@ -1,4 +1,4 @@
-﻿# static-images-01
+# static-images-01
 
 Publicly served static image assets for an internal web application.
 
